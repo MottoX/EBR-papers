@@ -5,10 +5,16 @@ Embedding-based retrieval (EBR) is commonly applied in search, recommendation, n
 This repository lists some representative papers on EBR.
 
 ## Papers on EBR
+### personalization
++ Embedding-based Product Retrieval in Taobao Search  [[pdf](https://arxiv.org/pdf/2106.09297.pdf)]
++ Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning [[pdf](https://arxiv.org/pdf/2006.02282.pdf)]
+
 ### diversity
 + Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [[pdf](https://arxiv.org/pdf/1904.08030.pdf)]
 + Controllable Multi-Interest Framework for Recommendation [[pdf](https://arxiv.org/abs/2005.09347.pdf)]
 
+### multitask
++ MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search [[pdf](http://research.baidu.com/Public/uploads/5d12eca098d40.pdf)]
 ### sampling&correction:
 + Embedding-based Retrieval in Facebook Search [[pdf](https://arxiv.org/pdf/2006.11632.pdf)]
 + Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations [[pdf](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)]
